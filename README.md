@@ -9,5 +9,5 @@ This Configuration was build for offline network.
 
 Source file is so huge size. so explain how download file.
 
-## This isn`t professional guide manual.
-## YOU HAVE TO KEEP THAT IN MIND.
+### This isn`t professional guide manual.
+### YOU HAVE TO KEEP THAT IN MIND.
