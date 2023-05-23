@@ -1,13 +1,16 @@
-# Bigdata_Platform
+# Environment
+### OS
+Virtual Box - Centos7(not stream)
 
-OS
-Virtual Box - Centos
+### Network
+Closed
 
-manual build Bigdata_platform..... and will be build ansible base this config
+### Architecture Pattern
+Master - Slave
 
-This Configuration was build for offline network.
-
-Source file is so huge size. so explain how download file.
+# Overview
+This repo is Bigdata_platform for manual build.
+And will be build ansible at this.
 
 ### This isn`t professional guide manual.
 ### YOU HAVE TO KEEP THAT IN MIND.
